@@ -1,7 +1,7 @@
 # Bootcamp Data Analytics - DIO
 Esse repositório tem como objetivo o armazenamento de alguns códigos que foram feitos para o Bootcamp Data Analytics da DIO. Cada uma dessas pastas contém consigo os códigos de alguns desafios básicos de lógica de programação feitos ao longo do curso. Sendo eles:
 <br >
-- Pasta "Python Challenges: possui desafios da maratona de Phyton básico
+- Pasta "Python Challenges": possui desafios da maratona de Phyton básico
 <br >
 
 <h2> 
